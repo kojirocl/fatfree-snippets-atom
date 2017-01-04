@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free Get statement':
+		'prefix': 'fget'
+		'body': """\$f3->get('${1:key}')"""
+

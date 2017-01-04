@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free reroute':
+		'prefix': 'freroute'
+		'body': """\$f3->reroute('${1:route}');"""
+

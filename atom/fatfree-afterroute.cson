@@ -1,0 +1,13 @@
+'.source.php':
+	'Fat-Free After route':
+		'prefix': 'fafter'
+		'body': """function afterRoute(){
+
+	# Defines
+	\$f3=\$this->framework;
+	\$db=\$this->db;
+
+	# Code
+	${1:CodeHere}
+}"""
+

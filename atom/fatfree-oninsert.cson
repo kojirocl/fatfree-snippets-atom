@@ -1,0 +1,7 @@
+'.text.html.basic':
+	'Fat-Free onInsert trigger':
+		'prefix': 'fonin'
+		'body': """${1:\$mapper}->oninsert(function(){
+	${2:#code}
+});"""
+

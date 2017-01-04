@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free convert obj2array':
+		'prefix': 'fcast'
+		'body': """\$${1:mapper_obj}->cast()"""
+

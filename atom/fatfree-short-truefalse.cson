@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free short (true|false) record':
+		'prefix': 'ftrue'
+		'body': """{{ isset(@${1:value}) ? @${2:iftrue}: @${3:iffalse} }}"""
+

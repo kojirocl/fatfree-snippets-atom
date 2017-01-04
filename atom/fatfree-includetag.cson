@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free include tag':
+		'prefix': 'finc'
+		'body': """<include href="{{@${1:content}}}" />"""
+

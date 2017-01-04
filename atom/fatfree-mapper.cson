@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free mapper snippet':
+		'prefix': 'fmapper'
+		'body': """\$${1:name}=new DB\SQL\Mapper(\$db,'${2:table}');"""
+

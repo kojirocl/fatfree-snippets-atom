@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free Get PHP type equivalent of PDO constant':
+		'prefix': 'ftype'
+		'body': """\$mapperobj->type(\$string)"""
+

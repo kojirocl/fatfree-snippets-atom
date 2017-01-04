@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free DB exec':
+		'prefix': 'fexec'
+		'body': """\$db->exec("SELECT * FROM ${1:table}", [1=>$2])"""
+

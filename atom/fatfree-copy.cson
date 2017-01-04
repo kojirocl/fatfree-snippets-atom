@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free copy':
+		'prefix': 'fcopy'
+		'body': """\$f3->copy(\$${1:src},\$${2:dst})"""
+

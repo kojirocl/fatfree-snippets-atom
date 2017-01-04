@@ -1,0 +1,7 @@
+'.text.html.basic':
+	'Fat-Free onLoad trigger':
+		'prefix': 'fonload'
+		'body': """${1:\$mapper}->onload(function(){
+	${2:#code}
+});"""
+

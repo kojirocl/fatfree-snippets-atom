@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free DB commit transaction':
+		'prefix': 'fbegin'
+		'body': """\$db->begin();"""
+

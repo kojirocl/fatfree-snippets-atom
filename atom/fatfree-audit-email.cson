@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free email audit':
+		'prefix': 'fauditmail'
+		'body': """Audit::instance()->email(${1:email}, FALSE)"""
+

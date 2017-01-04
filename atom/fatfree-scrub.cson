@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free scrub':
+		'prefix': 'fscrub'
+		'body': """\$f3->scrub(${1:mixed}${2:,tags})"""
+

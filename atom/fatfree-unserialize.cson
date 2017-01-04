@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free unserialize method':
+		'prefix': 'funser'
+		'body': """\$f3->unserialize(${1:argument});"""
+

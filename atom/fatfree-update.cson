@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free update':
+		'prefix': 'fupd'
+		'body': """\$${1:db}->update();"""
+

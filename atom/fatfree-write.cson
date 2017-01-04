@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free write data to file':
+		'prefix': 'fwrite'
+		'body': """\$f3->write(${1:filename},${2:data},${3:(true|false)});"""
+

@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free hash string':
+		'prefix': 'fhash'
+		'body': """\$f3->hash(${1:string})"""
+

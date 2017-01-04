@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free require snippet':
+		'prefix': 'freq'
+		'body': """\$f3=require('lib/base.php');"""
+

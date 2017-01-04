@@ -1,0 +1,9 @@
+'.source.php':
+	'Fat-Free route':
+		'prefix': 'froute'
+		'body': """\$f3->route('GET /',
+    function() {
+        echo '${1:Hello}';
+    }
+);"""
+

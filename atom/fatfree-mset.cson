@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free mset':
+		'prefix': 'fmset'
+		'body': """\$f3->mset(['${1:key}' => '${2:value}'], ['key2'=>'value2']);"""
+

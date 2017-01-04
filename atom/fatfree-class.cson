@@ -1,0 +1,48 @@
+'.source.php':
+	'Fat-Free new Class template':
+		'prefix': 'fclass'
+		'body': """<?php
+
+
+class ${1:ClassName} extends ${2:Parent}{
+
+	function ${3:index}(){
+		${4:code}
+	}
+
+
+
+
+
+	function get() {
+
+	}
+
+
+
+
+
+	function post() {
+
+	}
+
+
+
+
+
+	function put() {
+
+	}
+
+
+
+
+
+	function delete() {
+
+	}
+
+
+
+}"""
+

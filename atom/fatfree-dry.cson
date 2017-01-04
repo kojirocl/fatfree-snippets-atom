@@ -1,0 +1,9 @@
+'.source.php':
+	'fdry':
+		'prefix': 'fdry'
+		'body': """if (${1:object}->dry()) {
+	# ${2:not_found}
+} else {
+	# ${3:found}
+}"""
+

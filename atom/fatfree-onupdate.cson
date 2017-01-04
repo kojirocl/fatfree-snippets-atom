@@ -1,0 +1,7 @@
+'.text.html.basic':
+	'Fat-Free onUpdate trigger':
+		'prefix': 'fonup'
+		'body': """${1:\$mapper}->onupdate(function(){
+	${2:#code}
+});"""
+

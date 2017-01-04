@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free Dump expression (with syntax highlighting)':
+		'prefix': 'fdump'
+		'body': """\$f3->dump(${1:expression});"""
+

@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat_Free db rows count':
+		'prefix': 'fcount'
+		'body': """\$db->count()"""
+

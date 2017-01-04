@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free remove last element':
+		'prefix': 'fpop'
+		'body': """\$f3->pop('${1:array_name}');"""
+

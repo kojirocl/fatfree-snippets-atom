@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free load after mapper':
+		'prefix': 'fload'
+		'body': """\$${1:name}->load(['${2:request}= ?', '${3:value}']);"""
+

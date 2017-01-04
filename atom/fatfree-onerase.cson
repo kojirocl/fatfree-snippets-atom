@@ -1,0 +1,7 @@
+'.text.html.basic':
+	'Fat-Free onErase trigger':
+		'prefix': 'foner'
+		'body': """${1:\$mapper}->onerase(function(){
+	${2:#code}
+});"""
+

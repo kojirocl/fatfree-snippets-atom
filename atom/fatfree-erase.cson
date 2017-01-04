@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free Delete record from DB':
+		'prefix': 'ferase'
+		'body': """${1:\$mapper}->erase();"""
+

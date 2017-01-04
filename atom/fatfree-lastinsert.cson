@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free insert (last insert id)':
+		'prefix': 'flast'
+		'body': """\$db->lastinsertid()"""
+

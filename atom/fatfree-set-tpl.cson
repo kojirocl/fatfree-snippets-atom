@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free set tpl key|value':
+		'prefix': 'fkey'
+		'body': """<set ${1:key}="${2:value}">"""
+

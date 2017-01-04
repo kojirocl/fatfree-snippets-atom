@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free empty() method':
+		'prefix': 'fdev'
+		'body': """\$f3->devoid('${1:key}')"""
+

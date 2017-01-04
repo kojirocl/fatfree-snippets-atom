@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free read file':
+		'prefix': 'fread'
+		'body': """\$f3->read(${1:filename});"""
+

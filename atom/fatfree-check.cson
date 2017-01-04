@@ -1,0 +1,9 @@
+'.text.html.basic':
+	'Check Template':
+		'prefix': 'fcheck'
+		'body': """<check if="{{ isset(@${1:value})}}">
+	<true>
+		${2:html}
+	</true>
+</check>"""
+

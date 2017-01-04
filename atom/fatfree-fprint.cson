@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free print_r() in template':
+		'prefix': 'fprint'
+		'body': """{{ print_r(@${1:value})}}"""
+

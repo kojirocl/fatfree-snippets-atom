@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free copyFrom':
+		'prefix': 'fcopyfrom'
+		'body': """\$${1:name}->copyFrom('${2:POST}');"""
+

@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free new Session obj':
+		'prefix': 'fsess'
+		'body': """new \DB\SQL\Session(\$db);"""
+

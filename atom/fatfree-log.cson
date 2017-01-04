@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free echo log':
+		'prefix': 'flog'
+		'body': """\$db->log()"""
+

@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free reset':
+		'prefix': 'freset'
+		'body': """\$${1:name}->reset();"""
+

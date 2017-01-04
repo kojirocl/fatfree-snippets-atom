@@ -1,0 +1,9 @@
+'.text.html.basic':
+	'Fat-Free switch expr':
+		'prefix': 'fswitch'
+		'body': """<switch expr="{{ scalar expr }}">
+    <case value="{{ scalar @value|expr }}" break="{{ bool TRUE|FALSE }}">
+        text-block
+    </case>
+</switch>"""
+

@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free DB commit':
+		'prefix': 'fcomm'
+		'body': """\$db->commit()"""
+

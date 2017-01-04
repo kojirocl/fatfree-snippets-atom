@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free JS-style token to PHP expression':
+		'prefix': 'fcomp'
+		'body': """\f3->compile(${1:string})"""
+

@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free push':
+		'prefix': 'fpush'
+		'body': """\$f3->push(${1:from},${2:what});"""
+

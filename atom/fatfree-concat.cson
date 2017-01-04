@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free concat':
+		'prefix': 'fconcat'
+		'body': """$f3->concat(${1:key_one},${2:key_two});"""
+

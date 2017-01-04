@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free serialize method':
+		'prefix': 'fser'
+		'body': """\$f3->serialize(${1:argument});"""
+

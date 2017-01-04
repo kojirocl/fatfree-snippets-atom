@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free copyto':
+		'prefix': 'fcopyto'
+		'body': """\$${1:name}->copyTo('${2:POST}');"""
+

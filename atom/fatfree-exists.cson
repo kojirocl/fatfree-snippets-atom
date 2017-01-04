@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free exists key':
+		'prefix': 'fexists'
+		'body': """\$f3->exists('${1:key}')"""
+

@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free config':
+		'prefix': 'fconfig'
+		'body': """\$f3->config('${1:config.ini}');"""
+

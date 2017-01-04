@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free save':
+		'prefix': 'fsave'
+		'body': """\$${1:name}->save();"""
+

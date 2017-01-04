@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free sign':
+		'prefix': 'fsign'
+		'body': """\$f3->sign(${1:integer})"""
+

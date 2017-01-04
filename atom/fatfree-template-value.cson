@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free insert tpl value':
+		'prefix': 'fval'
+		'body': """{{ @${1:value} }}"""
+

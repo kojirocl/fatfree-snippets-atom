@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free run snippet':
+		'prefix': 'frun'
+		'body': """\$f3->run();"""
+

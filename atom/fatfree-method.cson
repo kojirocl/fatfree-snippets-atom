@@ -1,0 +1,7 @@
+'.source.php':
+	'Fat-Free method':
+		'prefix': 'ffunc'
+		'body': """function ${1:name}(\$f3,\$params){
+	 // ${2:code}
+}"""
+

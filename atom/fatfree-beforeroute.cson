@@ -1,0 +1,13 @@
+'.source.php':
+	'Fat-Free Before route':
+		'prefix': 'fbefore'
+		'body': """function beforeRoute(){
+
+	# Defines
+	\$f3=\$this->framework;
+	\$db=\$this->db;
+
+	# Code
+	${1:CodeHere}
+}"""
+

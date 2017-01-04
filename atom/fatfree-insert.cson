@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free insert to db':
+		'prefix': 'finsert'
+		'body': """${1:mapper}->insert();"""
+

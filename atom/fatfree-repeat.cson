@@ -1,0 +1,7 @@
+'.text.html.basic':
+	'Fat-Free repeat in templates':
+		'prefix': 'frep'
+		'body': """<repeat group="@${1:array}" value="@${2:item}">
+    <a href="${3:item.href}">${4:{{@item.name}}}</a>
+</repeat>"""
+

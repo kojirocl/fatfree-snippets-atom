@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free split string to array':
+		'prefix': 'fsplit'
+		'body': """\$f3->split(${1:data})"""
+

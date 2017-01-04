@@ -1,0 +1,5 @@
+'.source.php':
+	'Fatfree template render':
+		'prefix': 'frender'
+		'body': """echo Template::instance()->render('${1:page}.html');"""
+

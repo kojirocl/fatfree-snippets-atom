@@ -1,0 +1,5 @@
+'.text.html.basic':
+	'Fat-Free ref':
+		'prefix': 'fref'
+		'body': """\$f3->ref('${1:string}')"""
+

@@ -1,0 +1,5 @@
+'.source.php':
+	'Fat-Free base64':
+		'prefix': 'fbase64'
+		'body': """\$f3->base64(${1:data},${2:type})"""
+
